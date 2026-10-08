@@ -1,23 +1,18 @@
-# 👨‍💻 Zafer Karamete  
+### Hi, I'm Zafer
 
----
+Computer programming graduate based in Ankara. I write software and spend most of my free time taking binaries apart: reverse engineering, malware analysis and some web pentesting.
 
-## 🚀 About Me  
+Before that I did a 6-month security internship at Secunnix, where I worked on code analysis, traffic analysis and pentest tasks.
 
-I’m a 20-year-old student and researcher passionate about software development and cybersecurity.  
-I’ve been coding since high school, and recently I’ve been focusing on **reverse engineering, malware analysis, and exploit development**.  
+**What I'm doing these days**
 
-🔭 My goal: To combine my skills in software development and cybersecurity to create impactful and innovative projects.  
+- writing small analysis tools in C and Python (pinned below)
+- going deeper into x86-64 and the Windows PE format
+- solving crackmes and CTF reversing challenges
 
----
+**Stack**
 
-## 🛠️ Technical Skills  
-
-- **Programming Languages:** Assembly x86, C, C#, Python, Java (basic)  
-- **Tools:** x64/x32 Debugger, IDA Pro, Wireshark, Burp Suite, Postman, VS Code, Visual Studio  
-- **Operating Systems:** Windows, Linux (basic)  
-- **Expertise:** Reverse Engineering, Code Analysis, Malware Analysis, Basic Pentest  
-
----
-
-✨ *Everything is open-source if you can reverse it* ✨
+- **Languages:** C, x86/x64 assembly, C#, Python, Java (basic)
+- **Reversing:** IDA Pro, x64dbg, static & dynamic analysis
+- **Web / network:** Burp Suite, Wireshark, Postman
+- **Other:** Visual Studio, Git, Jenkins, Windows, Linux
