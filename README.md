@@ -2,12 +2,14 @@
 
 Computer programming graduate based in Ankara. I write software and spend most of my free time taking binaries apart: reverse engineering, malware analysis and some web pentesting.
 
-Before that I did a 6-month security internship at Secunnix, where I worked on code analysis, traffic analysis and pentest tasks.
+**Projects**
+
+- [pewalk](https://github.com/Tacovin/pewalk) - PE triage tool in C. Rich header checksum, TLS callbacks, overlay detection, mitigations, entropy. Checked against pefile on ~4500 Windows binaries.
+- [xorhunt](https://github.com/Tacovin/xorhunt) - finds XOR encoded executables and strings hidden inside other files. Recovers multi byte keys with a known plaintext trick instead of brute force.
 
 **What I'm doing these days**
 
-- writing small analysis tools in C and Python (pinned below)
-- going deeper into x86-64 and the Windows PE format
+- going deeper into x86-64 and Windows internals
 - solving crackmes and CTF reversing challenges
 
 **Stack**
